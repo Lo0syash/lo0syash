@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-### 💨My name is Arthur. My goal is to become Frontend developer and currently studying in college and on one's own learning this sphere.
+### 💨My name is Arthur. My goal is to become fullstack developer and currently studying in college and on one's own learning this sphere.
 
 ### 🔧 Technologies & Tools
 * Operating Systems: 
